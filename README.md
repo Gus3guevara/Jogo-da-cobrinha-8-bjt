@@ -1,2 +1,1 @@
-# Jogo-da-cobrinha-8-bjt
-
+Conteúdo simulado para README.md
