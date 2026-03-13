@@ -1,1 +1,1 @@
-Conteúdo simulado para README_PT.md
+Projeto incompleto
