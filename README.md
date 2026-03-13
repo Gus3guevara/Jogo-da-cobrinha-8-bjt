@@ -1,2 +1,1 @@
-incompleto
-Conteúdo simulado para README.md
+incomplete project 
